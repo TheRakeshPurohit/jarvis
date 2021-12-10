@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@ember/optional-features": "^1.1.0",
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
     "deep-diff": "^1.0.2",
     "ember-auto-import": "^1.5.3",
@@ -44,7 +44,7 @@
     "ember-radio-button": "^2.0.1",
     "ember-resolver": "^8.0.2",
     "ember-source": "~3.14.2",
-    "eslint-plugin-ember": "^7.6.0",
+    "eslint-plugin-ember": "^8.14.0",
     "eslint-plugin-node": "^11.1.0",
     "ivy-codemirror": "^2.1.0",
     "loader.js": "^4.7.0",
@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^18.9.1",
-    "ast-node-builder": "^3.0.10",
+    "ast-node-builder": "^3.0.19",
     "ast-node-finder": "^2.0.8",
     "ember-template-recast": "^5.0.3",
     "jscodeshift": "^0.13.0",
